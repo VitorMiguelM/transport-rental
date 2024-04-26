@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "CoV8v6BxDw31LVGLbdMzKMoXKlekPP0YZK6WzeEHx6o=",
+  "Source": "TransportRental.API",
+  "BasePath": "_content/TransportRental.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

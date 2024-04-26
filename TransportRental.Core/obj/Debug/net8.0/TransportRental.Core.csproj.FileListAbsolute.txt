@@ -1,0 +1,11 @@
+C:\Users\gabri\OneDrive\Área de Trabalho\TransportRental\TransportRental.Core\bin\Debug\net8.0\TransportRental.Core.deps.json
+C:\Users\gabri\OneDrive\Área de Trabalho\TransportRental\TransportRental.Core\bin\Debug\net8.0\TransportRental.Core.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\TransportRental\TransportRental.Core\bin\Debug\net8.0\TransportRental.Core.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\TransportRental\TransportRental.Core\obj\Debug\net8.0\TransportRental.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\OneDrive\Área de Trabalho\TransportRental\TransportRental.Core\obj\Debug\net8.0\TransportRental.Core.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\TransportRental\TransportRental.Core\obj\Debug\net8.0\TransportRental.Core.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Área de Trabalho\TransportRental\TransportRental.Core\obj\Debug\net8.0\TransportRental.Core.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\TransportRental\TransportRental.Core\obj\Debug\net8.0\TransportRental.Core.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\TransportRental\TransportRental.Core\obj\Debug\net8.0\refint\TransportRental.Core.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\TransportRental\TransportRental.Core\obj\Debug\net8.0\TransportRental.Core.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\TransportRental\TransportRental.Core\obj\Debug\net8.0\ref\TransportRental.Core.dll
